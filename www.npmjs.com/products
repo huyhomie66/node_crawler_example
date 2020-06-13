@@ -1,0 +1,439 @@
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://static.npmjs.com/styles.8ea0c2fab78a753ab019.css" />
+      <title data-react-helmet="true">npm | Products</title>
+      <meta data-react-helmet="true" http-equiv="cleartype" content="on"/><meta data-react-helmet="true" name="apple-mobile-web-app-capable" content="yes"/><meta data-react-helmet="true" name="viewport" content="width=device-width,minimum-scale=1.0,initial-scale=1,user-scalable=yes"/><meta data-react-helmet="true" property="og:image" content="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png"/><meta data-react-helmet="true" name="msapplication-TileColor" content="#cb3837"/><meta data-react-helmet="true" name="msapplication-TileImage" content="https://static.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png"/><meta data-react-helmet="true" name="msapplication-config" content="https://static.npmjs.com/668aac888e52ae13cac9cfd71fabd31f.xml"/><meta data-react-helmet="true" name="theme-color" content="#cb3837"/>
+      <link data-react-helmet="true" rel="apple-touch-icon" sizes="120x120" href="https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="144x144" href="https://static.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="152x152" href="https://static.npmjs.com/34110fd7686e2c90a487ca98e7336e99.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="180x180" href="https://static.npmjs.com/3dc95981de4241b35cd55fe126ab6b2c.png"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png" sizes="32x32"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png" sizes="230x230"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/f1786e9b7cba9753ca7b9c40e8b98f67.png" sizes="96x96"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/5f6e93af5bf0f5dcdd1eecdac99f51ee.png" sizes="192x192"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/c426a1116301d1fd178c51522484127a.png" sizes="228x228"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/da3ab40fb0861d15c83854c29f5f2962.png" sizes="16x16"/>
+      
+      <script data-react-helmet="true" type="text/javascript" id="hs-script-loader" onload async="true" defer="true" src="https://js.hs-scripts.com/5326678.js"></script>
+    
+  </head>
+  <body>
+    <div id="app"><div class="_452c3ec4 d68c66a8"><ul class="cf325dbd list ma0 pa0 tr z-999" aria-live="polite"></ul><div class="flex flex-column vh-100"><header class="_755f5b0f bg-white z-2 bb b--black-20"><div class="a6ff2de1"><a class="_1c6d86d1" href="https://github.blog/2020-04-15-npm-has-joined-github/"><svg class="_93bbf0b4" viewBox="0 0 780 250"><path fill="white" d="M240,250h100v-50h100V0H240V250z M340,50h50v100h-50V50z M480,0v200h100V50h50v150h50V50h50v150h50V0H480z M0,200h100V50h50v150h50V0H0V200z"></path></svg><span><strong>npm</strong> is now a part of <strong>GitHub</strong></span><svg class="_5532dff2" width="33px" height="33px" viewBox="0 0 33 33" version="1.1" role="img" xmlns="http://www.w3.org/2000/svg"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-136.000000, -331.000000)"><path fill="white" d="M152.608,331.455 C143.614,331.455 136.32,338.748 136.32,347.745 C136.32,354.942 140.987,361.047 147.46,363.201 C148.275,363.351 148.572,362.848 148.572,362.416 C148.572,362.029 148.558,361.005 148.55,359.646 C144.019,360.63 143.063,357.462 143.063,357.462 C142.322,355.58 141.254,355.079 141.254,355.079 C139.775,354.069 141.366,354.089 141.366,354.089 C143.001,354.204 143.861,355.768 143.861,355.768 C145.314,358.257 147.674,357.538 148.602,357.121 C148.75,356.069 149.171,355.351 149.636,354.944 C146.019,354.533 142.216,353.135 142.216,346.893 C142.216,345.115 142.851,343.66 143.893,342.522 C143.725,342.11 143.166,340.453 144.053,338.211 C144.053,338.211 145.42,337.773 148.532,339.881 C149.831,339.519 151.225,339.339 152.61,339.332 C153.994,339.339 155.387,339.519 156.688,339.881 C159.798,337.773 161.163,338.211 161.163,338.211 C162.052,340.453 161.493,342.11 161.326,342.522 C162.37,343.66 163,345.115 163,346.893 C163,353.151 159.191,354.528 155.563,354.931 C156.147,355.434 156.668,356.428 156.668,357.947 C156.668,360.125 156.648,361.882 156.648,362.416 C156.648,362.852 156.942,363.359 157.768,363.2 C164.236,361.041 168.899,354.94 168.899,347.745 C168.899,338.748 161.605,331.455 152.608,331.455"></path></g></g></svg></a></div><div></div><div class="e7070742 pv3-ns ph1-ns bg-white"><div class="ef7c6e62 center mw9 border-box ph4-ns ph3 flex"><span class="_0edb515f pr3 dn dib-ns link lh-title dim b--white-30">❤</span><span class="_99e3854f f6 fw4 link dn dib-ns tl dim mr4 nowrap">Novice Prime Minister</span><nav class="_4a5f2a79 db w-100 w-auto-ns tr truncate"><ul class="list pl0"><li class="dib npme-hidden"><a class="c6c55db4 link f6-ns f7 fw5 pr2 pl2" id="nav-products-link" href="/products"><span class="dim">Products</span></a><ul class="_3f98ab29 mt2 pa0 bg-white br2 shadow-1 tl"><li><a id="nav-pro-link" class="b8f9b0bd link f6-ns f7 fw5 db ph3 pv2 nowrap dim" tabindex="0" href="/products/pro">Pro</a></li><li><a id="nav-teams-link" class="b8f9b0bd link f6-ns f7 fw5 db ph3 pv2 nowrap dim" tabindex="0" href="/products/teams">Teams</a></li><li><a id="nav-enterprise-link" class="b8f9b0bd link f6-ns f7 fw5 db ph3 pv2 nowrap dim" tabindex="0" href="/products/enterprise">Enterprise</a></li></ul></li><li class="dib npme-hidden"><a class="c6c55db4 link f6-ns f7 fw5 dim pr2 pl2" id="nav-pricing-link" href="/products">Pricing</a></li><li class="dib"><a class="c6c55db4 link f6-ns f7 fw5 dim pr2 pl2" id="nav-docs-link" href="https://docs.npmjs.com">Documentation</a></li><li class="dib npme-hidden"><a class="c6c55db4 link f6-ns f7 fw5 dim pr2 pl2" id="nav-resources-link" href="https://npm.community">Community</a></li></ul></nav></div></div><div class="_4ea0e50d bt b--black-10"><div class="c5b9953b center mw9 flex flex-wrap ph4-ns border-box"><h1 class="_657f443d">npm</h1><div class="af43375d mt3 db mr4-ns pb3 pb0-ns flex-auto 2-ns ph3 ph0-ns"><a href="/"><svg viewBox="0 0 780 250"><path fill="#231F20" d="M240,250h100v-50h100V0H240V250z M340,50h50v100h-50V50z M480,0v200h100V50h50v150h50V50h50v150h50V0H480z M0,200h100V50h50v150h50V0H0V200z"></path></svg></a></div><div class="_581ebd89 relative flex-auto w-100 w-50-ns pv2-ns order-1-ns order-2"><form id="search" method="GET" action="/search" class="_13c93d41 relative flex bg-transparent ph3 ph2 pv2 ph0-ns pv0-ns bt b--black-10 bn-ns"><div class="e82b10fd relative flex-grow-1"><div class="_2f299eeb nowrap flex"><span class="_705cdf4f db fl pl3 pr1"><svg width="15px" height="15px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" aria-hidden="true"><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Artboard-1" stroke="#777777" stroke-width="1.3"><g id="Group"><path d="M13.4044,7.0274 C13.4044,10.5494 10.5494,13.4044 7.0274,13.4044 C3.5054,13.4044 0.6504,10.5494 0.6504,7.0274 C0.6504,3.5054 3.5054,0.6504 7.0274,0.6504 C10.5494,0.6504 13.4044,3.5054 13.4044,7.0274 Z" id="Stroke-3"></path><path d="M11.4913,11.4913 L17.8683,17.8683" id="Stroke-7"></path></g></g></g></svg></span><input type="search" name="q" hotkeys="[object Object]" placeholder="Search packages" autoComplete="off" aria-label="Search packages" inputref="[object Object]" class="_390acbc5 f5 fw3 black relative" value="" element="input"/></div></div><button type="submit" class="_0da775bb bn pv2 ph4 f6 white pointer">Search</button><input type="hidden" name="csrftoken" value="HzF7AwbBU5argQlLvWqndN7BMtizPRUyY9EhYfQuHAM"/></form></div><div class="_6f31c82b ml3 mt2 mt0-ns pv2-ns flex-auto tr nowrap relative pointer fw6 order-1 order-2-ns"><div class="_1066d9e7 flex items-center self-center pl3"><a href="/signup" class="_9752c8b3 pa2 lh-copy br2 f6 no-underline fw5 black dim ph3 mr3">Sign Up</a><a class="_352269a0 pa1 lh-copy br2 f6 no-underline fw5 black dim" href="/login">Sign In</a></div></div></div></div></header><main><div id="flatpage" class="flatpages">
+<article class="bg-white dark-gray npm-content">
+  <section class="npm-bg npm-bg-hero npm-bg-spill">
+    <div class="center pa3 pv5 tc white">
+      <h1 class="mv0 f-subheadline-m f-subheadline-l f1 lh-title">
+        Pricing
+      </h1>
+    </div>
+
+    <div class="center flex flex-wrap mw7-m mw8-l">
+      <div class="w-100 w-50-m w-25-l pa3 pv5-l">
+        <div class="flex flex-column h-100 bg-silver tc white">
+          <header class="pa3 ttu tracked lh-copy b npm-title f6">
+            For Public<br>Package Authors
+          </header>
+
+          <div class="npm-ratio pt4 pt0-ns">
+            <div class="npm-fill flex items-center justify-center">
+              <img
+                src="https://static.npmjs.com/attachments/ck3uwe3pf72xu8874etabgd42-free.png"
+                srcset="https://static.npmjs.com/attachments/ck3uwe3pf72xu8874etabgd42-free.png,
+                        https://static.npmjs.com/attachments/ck3uwe5b372y08874c6bk5mj9-free-2x.png 2x,
+                        https://static.npmjs.com/attachments/ck3uwe80w72y78874sx4ia48t-free-3x.png 3x"
+              >
+            </div>
+          </div>
+
+          <div class="flex flex-column flex-grow pa3 pb4">
+            <h3 class="f3 mt0-l">
+              Free
+            </h3>
+
+            <div>
+              <span class="dib mt2 f2 v-top">$</span>
+              <span class="f-subheadline">0</span>
+            </div>
+
+            <ul class="flex-grow list pl0">
+              <li class="pv2 white">
+                Unlimited<br>public packages
+              </li>
+            </ul>
+
+            <a href="/signup" class="db pa3 ba br-pill ttu no-underline tracked white b npm-title">
+              Create
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="w-100 w-50-m w-25-l pa3">
+        <div class="flex flex-column h-100 bg-white npm-shadow-big tc">
+          <header class="pa3 white bg-dark-gray ttu tracked lh-copy b npm-title f6">
+            For Individual<br>Creators
+          </header>
+
+          <div>
+            <img src="https://static.npmjs.com/attachments/ck3uwg119mt16dr740oqtw1be-wombat-header-pro.png" class="w-100">
+          </div>
+
+          <div class="flex flex-column flex-grow pa3 pb4">
+            <h3 class="f2 mt1 mb3">
+              Pro
+            </h3>
+
+            <div>
+              <span class="dib mt2 f2 v-top light-silver">$</span>
+              <span class="f-subheadline">7</span>
+            </div>
+
+            <small class="db">per month</small>
+            <small class="db">&nbsp;</small>
+
+            <ul class="flex-grow list pl0">
+              <li class="pv2">
+                Unlimited<br>public packages
+              </li>
+
+              <li class="pv2">
+                Unlimited<br>private packages
+              </li>
+
+              <li class="pv2">
+                Package-based<br>permissions
+              </li>
+            </ul>
+
+            <a href="/products/pro#get-started" class="db pa3 ba br-pill ttu no-underline tracked b npm-title nowrap">
+              Get Started
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="w-100 w-50-m w-25-l pa3">
+        <div class="flex flex-column h-100 bg-white npm-shadow-big tc">
+          <header class="pa3 white bg-dark-gray ttu tracked lh-copy b npm-title f6">
+            For Teams &<br>Organizations
+          </header>
+
+          <div>
+            <img src="https://static.npmjs.com/attachments/ck3uwg1fkmr9tc97498op7ljg-wombat-header-teams.png" class="w-100">
+          </div>
+
+          <div class="flex flex-column flex-grow pa3 pb4">
+            <h3 class="f2 mt1 mb3">
+              Teams
+            </h3>
+
+            <div>
+              <span class="dib mt2 f2 v-top light-silver">$</span>
+              <span class="f-subheadline">7</span>
+            </div>
+
+            <small class="db">per user</small>
+            <small class="db">per month</small>
+
+            <ul class="flex-grow list pl0">
+              <li class="pv2">
+                Unlimited<br>public packages
+              </li>
+
+              <li class="pv2">
+                Unlimited<br>private packages
+              </li>
+
+              <li class="pv2">
+                Team-based<br>permissions
+              </li>
+            </ul>
+
+            <a href="/org/create" class="db pa3 ba br-pill ttu no-underline tracked b npm-title nowrap">
+              Get Started
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="w-100 w-50-m w-25-l pa3 pv5-l">
+        <div class="flex flex-column h-100 bg-dark-gray npm-enterprise-bg white tc f6">
+          <header class="pa3 ph1 tc ttu tracked lh-copy b npm-title nowrap">
+            The Ultimate in<br>Enterprise JavaScript
+          </header>
+
+          <div class="npm-ratio pt4 pt0-ns">
+            <div class="npm-fill flex items-center justify-center">
+              <img
+                src="https://static.npmjs.com/attachments/ck3uwdz2272xb8874zxys9s9r-enterprise.png"
+                srcset="https://static.npmjs.com/attachments/ck3uwdz2272xb8874zxys9s9r-enterprise.png,
+                        https://static.npmjs.com/attachments/ck3uwe03k72xh8874e8iowugn-enterprise-2x.png 2x,
+                        https://static.npmjs.com/attachments/ck3uwe26672xo8874y00hjl9u-enterprise-3x.png 3x"
+              >
+            </div>
+          </div>
+
+          <div class="flex flex-column flex-grow pa3 pb4">
+            <h3 class="f3 mt0-l">
+              Enterprise
+            </h3>
+
+            <small class="db">starting at</small>
+
+            <div>
+              <span class="dib mt2 f2 v-top">$</span>
+              <span class="f-subheadline">10K</span>
+            </div>
+
+            <small class="db">per month</small>
+
+            <div class="flex-grow pv3"></div>
+
+            <a href="https://go.npmjs.com/contact-sales" class="db pa3 ba br-pill b--white ttu no-underline white tracked b npm-title nowrap">
+              Contact Sales
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="pv5 ph3-ns center">
+    <div class="mw7 center tc">
+      <div class="bg-white shadow-1">
+        <div class="npm-bg-gradient npm-band-thin"></div>
+
+        <div class="pa3 bg-gray white">
+          <h2 class="ma0">Feature Comparison</h2>
+        </div>
+
+        <div class="pa3">
+          <div class="pa3 b lh-copy">
+            Unlimited public packages &<br>
+            automatic security warnings
+          </div>
+
+          <div class="flex justify-center">
+            <div class="pv3 ph3 ph4-ns">
+              <div class="mb3 b">Free</div>
+              <div>
+                <img
+                  src="https://static.npmjs.com/attachments/ck3uwdp9emssldr745565esyo-checkmark.png"
+                  srcset="https://static.npmjs.com/attachments/ck3uwdp9emssldr745565esyo-checkmark.png,
+                          https://static.npmjs.com/attachments/ck3uwdqkkmr40c974pxy00y46-checkmark-2x.png 2x,
+                          https://static.npmjs.com/attachments/ck3uwdx1e72x58874sfxkgr79-checkmark-3x.png 3x"
+                >
+              </div>
+            </div>
+
+            <div class="pv3 ph3 ph4-ns">
+              <div class="mb3 b npm-red">Pro</div>
+              <div>
+                <img
+                  src="https://static.npmjs.com/attachments/ck3uwdp9emssldr745565esyo-checkmark.png"
+                  srcset="https://static.npmjs.com/attachments/ck3uwdp9emssldr745565esyo-checkmark.png,
+                          https://static.npmjs.com/attachments/ck3uwdqkkmr40c974pxy00y46-checkmark-2x.png 2x,
+                          https://static.npmjs.com/attachments/ck3uwdx1e72x58874sfxkgr79-checkmark-3x.png 3x"
+                >
+              </div>
+            </div>
+
+            <div class="pv3 ph3 ph4-ns">
+              <div class="mb3 b npm-red">Teams</div>
+              <div>
+                <img
+                  src="https://static.npmjs.com/attachments/ck3uwdp9emssldr745565esyo-checkmark.png"
+                  srcset="https://static.npmjs.com/attachments/ck3uwdp9emssldr745565esyo-checkmark.png,
+                          https://static.npmjs.com/attachments/ck3uwdqkkmr40c974pxy00y46-checkmark-2x.png 2x,
+                          https://static.npmjs.com/attachments/ck3uwdx1e72x58874sfxkgr79-checkmark-3x.png 3x"
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="pa3 bg-light-gray">
+          <div class="pa3 b">
+            Unlimited private packages
+          </div>
+
+          <div class="flex justify-center">
+            <div class="pv3 ph3 ph4-ns">
+              <div class="mb3 b">Free</div>
+              <div>
+                &nbsp;
+              </div>
+            </div>
+
+            <div class="pv3 ph3 ph4-ns">
+              <div class="mb3 b npm-red">Pro</div>
+              <div>
+                <img
+                  src="https://static.npmjs.com/attachments/ck3uwdp9emssldr745565esyo-checkmark.png"
+                  srcset="https://static.npmjs.com/attachments/ck3uwdp9emssldr745565esyo-checkmark.png,
+                          https://static.npmjs.com/attachments/ck3uwdqkkmr40c974pxy00y46-checkmark-2x.png 2x,
+                          https://static.npmjs.com/attachments/ck3uwdx1e72x58874sfxkgr79-checkmark-3x.png 3x"
+                >
+              </div>
+            </div>
+
+            <div class="pv3 ph3 ph4-ns">
+              <div class="mb3 b npm-red">Teams</div>
+              <div>
+                <img
+                  src="https://static.npmjs.com/attachments/ck3uwdp9emssldr745565esyo-checkmark.png"
+                  srcset="https://static.npmjs.com/attachments/ck3uwdp9emssldr745565esyo-checkmark.png,
+                          https://static.npmjs.com/attachments/ck3uwdqkkmr40c974pxy00y46-checkmark-2x.png 2x,
+                          https://static.npmjs.com/attachments/ck3uwdx1e72x58874sfxkgr79-checkmark-3x.png 3x"
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="pa3">
+          <div class="pa3 b">
+            Unlimited team-based management
+          </div>
+
+          <div class="flex justify-center">
+            <div class="pv3 ph3 ph4-ns">
+              <div class="mb3 b">Free</div>
+              <div>
+                &nbsp;
+              </div>
+            </div>
+
+            <div class="pv3 ph3 ph4-ns">
+              <div class="mb3 b npm-red">Pro</div>
+              <div>
+                &nbsp;
+              </div>
+            </div>
+
+            <div class="pv3 ph3 ph4-ns">
+              <div class="mb3 b npm-red">Teams</div>
+              <div>
+                <img
+                  src="https://static.npmjs.com/attachments/ck3uwdp9emssldr745565esyo-checkmark.png"
+                  srcset="https://static.npmjs.com/attachments/ck3uwdp9emssldr745565esyo-checkmark.png,
+                          https://static.npmjs.com/attachments/ck3uwdqkkmr40c974pxy00y46-checkmark-2x.png 2x,
+                          https://static.npmjs.com/attachments/ck3uwdx1e72x58874sfxkgr79-checkmark-3x.png 3x"
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="npm-bg-gradient npm-band-thin"></div>
+      </div>
+
+      <small class="db pt3 f6 tr i">
+        All versions include basic support
+      </small>
+    </div>
+  </section>
+</article>
+
+<link href="https://fonts.googleapis.com/css?family=Arimo|Poppins:400,600,700&display=swap" rel="stylesheet">
+
+<style>
+  .npm-bg {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .npm-bg-hero {
+    background-image: url('https://static.npmjs.com/attachments/ck3uxepk1n4ybdr74ylkvishm-bg-pricing.png');
+  }
+
+  .npm-bg-special-bundle {
+    background-image: url('https://static.npmjs.com/attachments/ck3uxgytmn40dc974chlv59ll-bg-specialbundle.png');
+  }
+
+  .npm-bg-gradient {
+    background: linear-gradient(to right, #E02AFF, #C12127, #FF4B01, #FB8817);
+  }
+
+  .npm-band-thin {
+    height: 3px;
+  }
+
+  .npm-band-thick {
+    height: 10px;
+  }
+
+  .npm-bg-spill {
+    background-position: bottom 6rem center;
+  }
+
+  .npm-shadow-big {
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  }
+
+  .npm-enterprise-bg {
+    background: linear-gradient(to bottom, #333, rgba(0, 0, 0, 0)),
+                repeating-linear-gradient(22deg, #333 0px 5px, #555 5px 7px, #444 7px 11px)
+                ;
+  }
+
+  .npm-red {
+    color: #c12127;
+  }
+
+  .flex-grow {
+    flex-grow: 1;
+  }
+
+  .npm-content {
+    font-family: 'Arimo', sans-serif;
+  }
+
+  .npm-content h1,
+  .npm-content h2,
+  .npm-content h3,
+  .npm-content h4,
+  .npm-content h5,
+  .npm-content h6
+  {
+    font-family: Poppins,sans-serif;
+    font-weight: 600;
+  }
+
+  .npm-title {
+    font-family: Poppins,sans-serif;
+  }
+
+  .npm-ratio {
+    position: relative;
+  }
+
+  .npm-ratio::after {
+    content: '';
+
+    width: 100%;
+    padding-bottom: 70%;
+  }
+
+  @media screen and (min-width: 30em) {
+    .npm-ratio::after {
+      display: block;
+    }
+  }
+
+  @media screen and (min-width: 30em) {
+    .npm-fill {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+    }
+  }
+</style>
+
+<script type="text/javascript">
+  
+  
+  
+</script>
+</div></main><footer class="cd2827bb bt b--black-10 mt4"><div class="center mw9 pa3 flex flex-column flex-wrap-m flex-row-ns"><div class="flex-auto pa4-ns pa3 w-100 w-10-l"><div class="_802b5507 pt3"><svg viewBox="0 0 27.23 27.23"><rect fill="#333333" width="27.23" height="27.23" rx="2"></rect><polygon fill="#fff" points="5.8 21.75 13.66 21.75 13.67 9.98 17.59 9.98 17.58 21.76 21.51 21.76 21.52 6.06 5.82 6.04 5.8 21.75"></polygon></svg></div></div><div class="flex-auto pa4-ns pa3 w-30-ns w-50-m"><h3 class="_1b8c0a9f">Help</h3><ul class="list pl0"><li class="pv1"><a class="link" href="https://docs.npmjs.com">Documentation</a></li><li class="pv1"><a class="link" href="https://npm.community">Community</a></li><li class="pv1"><a class="link" href="/resources/">Case Studies</a></li><li class="pv1"><a class="link" href="https://www.npmjs.com/advisories">Advisories</a></li><li class="pv1 npme-hidden"><a class="link" href="http://status.npmjs.org/">Status</a></li><li class="pv1"><a class="link" href="/support">Contact</a></li></ul></div><div class="flex-auto pa4-ns pa3 w-30-ns w-50-m"><h3 class="_1b8c0a9f">About</h3><ul class="list pl0"><li class="pv1"><a class="link" href="/about">Company</a></li><li class="pv1"><a class="link" href="https://blog.npmjs.org/">Blog</a></li><li class="pv1 npme-hidden"><a class="link" href="/jobs">Careers</a></li><li class="pv1"><a class="link" href="https://www.youtube.com/playlist?list=PLQso55XhxkgDSLC0GzjGFeUkJ_T6YzVXK" target="_blank" rel="noopener noreferrer nofollow">Webinars</a></li><li class="pv1"><a class="link" href="/press">Press</a></li><li class="pv1"><a class="link" href="/npm-weekly">Newsletter</a></li></ul></div><div class="flex-auto pa4-ns pa3 w-30-ns w-50-m"><h3 class="_1b8c0a9f">Terms &amp; Policies</h3><ul class="list pl0"><li class="pv1"><a class="link" href="/policies/">Policies</a></li><li class="pv1"><a class="link" href="/policies/terms">Terms of Use</a></li><li class="pv1 npme-hidden"><a class="link" href="/policies/conduct">Code of Conduct</a></li><li class="pv1 npme-hidden"><a class="link" href="/policies/privacy">Privacy</a></li></ul></div></div></footer></div><div class="_8a62ca63 fixed top-0 left-0 z-999" style="opacity:0;transform:scaleX(1);-webkit-transform:scaleX(1);-moz-transform:scaleX(1)"></div></div></div><script integrity="sha512-K0gIUuxtI+0K7pqJieC1wFWe25wrPnMCjP3EbRrrSF1Y5XzaFxjZDzliyYiFqQV5qoW1lH+q7VF0Yxyhpb9RAw==">window.__context__ = {"context":{"isNpme":false,"npmExpansions":["Non-Polite Mother","Normally Pleasant Mixture","Nonconformist Propaganda Machine","Nearsighted Paramecium Multiverse","Namby Pamby Magicians","Nostalgic Pizza Manager","Native Papuan Masks","Neophobe Plebeian Mumpsimus","Now with Partition Management","Novice Prime Minister"],"notifications":[],"csrftoken":"HzF7AwbBU5argQlLvWqndN7BMtizPRUyY9EhYfQuHAM","user":null,"documentContext":{"flatpage.data":"flatpage"},"flatpage":{"title":"npm | Products","ref":"flatpage","data":null},"undefined":true},"chunks":{"commons":["commons.429f3059e540b2c7cc49.js","commons.429f3059e540b2c7cc49.js.map"],"styles":["styles.8ea0c2fab78a753ab019.css","minicssextractbug.ca74408b353c740d5d0c.js","styles.8ea0c2fab78a753ab019.css.map","minicssextractbug.ca74408b353c740d5d0c.js.map"],"advisories/detail":["advisories/detail.0132958db6d18c0e6e01.js","advisories/detail.0132958db6d18c0e6e01.js.map"],"advisories/list":["advisories/list.3290ddc4e23207bdb4b4.js","advisories/list.3290ddc4e23207bdb4b4.js.map"],"advisories/report":["advisories/report.b064331d619988111965.js","advisories/report.b064331d619988111965.js.map"],"advisories/versions":["advisories/versions.d67b64d44aaa6fc39045.js","advisories/versions.d67b64d44aaa6fc39045.js.map"],"auth/cli":["auth/cli.1d16c91afb0c4e0635f2.js","auth/cli.1d16c91afb0c4e0635f2.js.map"],"auth/common-passwords":["auth/common-passwords.436ae493e0cbdc0c6db1.js","auth/common-passwords.436ae493e0cbdc0c6db1.js.map"],"auth/escalate":["auth/escalate.77815e32a3160e2cc4f8.js","auth/escalate.77815e32a3160e2cc4f8.js.map"],"auth/forgot":["auth/forgot.ca1f1907a0dafb38be4e.js","auth/forgot.ca1f1907a0dafb38be4e.js.map"],"auth/forgot-sent":["auth/forgot-sent.ad98b7e97894a93df025.js","auth/forgot-sent.ad98b7e97894a93df025.js.map"],"auth/forgot-sent-anonymized":["auth/forgot-sent-anonymized.4497c80cd62374748250.js","auth/forgot-sent-anonymized.4497c80cd62374748250.js.map"],"auth/invite-signup":["auth/invite-signup.ac5f299fece9e43e617b.js","auth/invite-signup.ac5f299fece9e43e617b.js.map"],"auth/login":["auth/login.7c1f7c0107ad04fd59ed.js","auth/login.7c1f7c0107ad04fd59ed.js.map"],"auth/otp":["auth/otp.48bbad1a86ecd76e44cc.js","auth/otp.48bbad1a86ecd76e44cc.js.map"],"auth/reset-password":["auth/reset-password.fc1738c87ab5c3ef247d.js","auth/reset-password.fc1738c87ab5c3ef247d.js.map"],"auth/signup":["auth/signup.b40074058b4e707ea227.js","auth/signup.b40074058b4e707ea227.js.map"],"auth/sso-signup":["auth/sso-signup.0b7610c6ef4dda2ec44c.js","auth/sso-signup.0b7610c6ef4dda2ec44c.js.map"],"billing/detail":["billing/detail.f8e9ee9a27affb78dfc3.js","billing/detail.f8e9ee9a27affb78dfc3.js.map"],"billing/downgrade":["billing/downgrade.53230b3ff30717d1a4b7.js","billing/downgrade.53230b3ff30717d1a4b7.js.map"],"billing/upgrade":["billing/upgrade.6b87dc282722783c2cdf.js","billing/upgrade.6b87dc282722783c2cdf.js.map"],"contact/contact":["contact/contact.af3dd468f54370ffc937.js","contact/contact.af3dd468f54370ffc937.js.map"],"debug/badstatus":["debug/badstatus.b25763c32e9962e75983.js","debug/badstatus.b25763c32e9962e75983.js.map"],"debug/detail":["debug/detail.fa739fbd6bffd23fdec4.js","debug/detail.fa739fbd6bffd23fdec4.js.map"],"debug/failcomponent":["debug/failcomponent.64ec10ea7c542e7d5643.js","debug/failcomponent.64ec10ea7c542e7d5643.js.map"],"egg/egg":["egg/egg.79edc258ae578ab94361.js","egg/egg.79edc258ae578ab94361.js.map"],"enterprise/complete":["enterprise/complete.7d2a0a50838c3cf4c282.js","enterprise/complete.7d2a0a50838c3cf4c282.js.map"],"enterprise/license-paid":["enterprise/license-paid.263c8eefe4a649aa3178.js","enterprise/license-paid.263c8eefe4a649aa3178.js.map"],"enterprise/license-purchase":["enterprise/license-purchase.b680ce084f4e43676354.js","enterprise/license-purchase.b680ce084f4e43676354.js.map"],"enterprise/on-site-buy-now":["enterprise/on-site-buy-now.2dcfd4982a9280c07332.js","enterprise/on-site-buy-now.2dcfd4982a9280c07332.js.map"],"enterprise/on-site-contact-confirmation":["enterprise/on-site-contact-confirmation.1acc1b1075cb9137ec4a.js","enterprise/on-site-contact-confirmation.1acc1b1075cb9137ec4a.js.map"],"enterprise/on-site-trial":["enterprise/on-site-trial.bb39b9fe336832948cad.js","enterprise/on-site-trial.bb39b9fe336832948cad.js.map"],"enterprise/orgs-terms":["enterprise/orgs-terms.ec9d8eb743ba7ee1d6f2.js","enterprise/orgs-terms.ec9d8eb743ba7ee1d6f2.js.map"],"enterprise/signup-confirmation":["enterprise/signup-confirmation.e9a47426323eb52f1bf3.js","enterprise/signup-confirmation.e9a47426323eb52f1bf3.js.map"],"errors/not-found":["errors/not-found.97bd5716ece086aaad31.js","errors/not-found.97bd5716ece086aaad31.js.map"],"errors/server":["errors/server.fbdccd9b2cccc09eac2a.js","errors/server.fbdccd9b2cccc09eac2a.js.map"],"errors/template":["errors/template.8ffbdf0311437fe50302.js","errors/template.8ffbdf0311437fe50302.js.map"],"flatpage/flatpage":["flatpage/flatpage.5974d2428c425547961c.js","flatpage/flatpage.5974d2428c425547961c.js.map"],"homepage/homepage":["homepage/homepage.7d324375879de472ca8b.js","homepage/homepage.7d324375879de472ca8b.js.map"],"homepage/homepage-logged-in":["homepage/homepage-logged-in.3f80425d936ee6f3087e.js","homepage/homepage-logged-in.3f80425d936ee6f3087e.js.map"],"npme/invite":["npme/invite.e7776f7993d32a9dcab6.js","npme/invite.e7776f7993d32a9dcab6.js.map"],"npme/invites":["npme/invites.189a31a0dedc3e8e0147.js","npme/invites.189a31a0dedc3e8e0147.js.map"],"npme/login":["npme/login.6da65eb556a96fab728a.js","npme/login.6da65eb556a96fab728a.js.map"],"npme/overrides/components/tutorials/creating-org":["npme/overrides/components/tutorials/creating-org.5ba2f5f246e7e935d5b1.js","npme/overrides/components/tutorials/creating-org.5ba2f5f246e7e935d5b1.js.map"],"npme/overrides/components/tutorials/default-registry":["npme/overrides/components/tutorials/default-registry.7a6a34d4866fa0f2a920.js","npme/overrides/components/tutorials/default-registry.7a6a34d4866fa0f2a920.js.map"],"npme/overrides/components/tutorials/installing-package":["npme/overrides/components/tutorials/installing-package.d8774ff2ee7dca298875.js","npme/overrides/components/tutorials/installing-package.d8774ff2ee7dca298875.js.map"],"npme/overrides/components/tutorials/publishing-package":["npme/overrides/components/tutorials/publishing-package.d0ea8e384d063b47f66d.js","npme/overrides/components/tutorials/publishing-package.d0ea8e384d063b47f66d.js.map"],"npme/overrides/components/tutorials/tabs":["npme/overrides/components/tutorials/tabs.7673682b6d66d0b1de5a.js","npme/overrides/components/tutorials/tabs.7673682b6d66d0b1de5a.js.map"],"npme/overrides/homepage":["npme/overrides/homepage.8ff91fccaa8e023bb039.js","npme/overrides/homepage.8ff91fccaa8e023bb039.js.map"],"npme/overrides/orgs/create":["npme/overrides/orgs/create.d9ead4893c30a8601ad0.js","npme/overrides/orgs/create.d9ead4893c30a8601ad0.js.map"],"npme/settings":["npme/settings.06a67d4f7c8a71721d95.js","npme/settings.06a67d4f7c8a71721d95.js.map"],"npme/setup":["npme/setup.c12d71f6b9ecbff6f38c.js","npme/setup.c12d71f6b9ecbff6f38c.js.map"],"npme/sso-config":["npme/sso-config.e84454b27e4a552c01af.js","npme/sso-config.e84454b27e4a552c01af.js.map"],"npme/users":["npme/users.42d3195bd5c2a6022750.js","npme/users.42d3195bd5c2a6022750.js.map"],"orgs/create":["orgs/create.171bca2ded58b4e14c5e.js","orgs/create.171bca2ded58b4e14c5e.js.map"],"orgs/detail":["orgs/detail.8fa815fcb0c41c9987f1.js","orgs/detail.8fa815fcb0c41c9987f1.js.map"],"orgs/invite":["orgs/invite.28f8cd75195b676071fb.js","orgs/invite.28f8cd75195b676071fb.js.map"],"orgs/upgrade":["orgs/upgrade.5235274d83feb44fbb07.js","orgs/upgrade.5235274d83feb44fbb07.js.map"],"package-list/dependents-list":["package-list/dependents-list.e9a601eeb2b555f452c3.js","package-list/dependents-list.e9a601eeb2b555f452c3.js.map"],"package-list/most-depended":["package-list/most-depended.6e1ab19ed1908586a5c9.js","package-list/most-depended.6e1ab19ed1908586a5c9.js.map"],"package-list/recently-updated":["package-list/recently-updated.69c946c7f737f0f0dc65.js","package-list/recently-updated.69c946c7f737f0f0dc65.js.map"],"package/package":["package/package.be8e9b4834418a2b9c38.js","package/package.be8e9b4834418a2b9c38.js.map"],"profile/profile":["profile/profile.b2109d4d3217b9406608.js","profile/profile.b2109d4d3217b9406608.js.map"],"search/search":["search/search.e995fcdd89068743db8c.js","search/search.e995fcdd89068743db8c.js.map"],"settings/change-password":["settings/change-password.78b06f67ff5dfb6a8879.js","settings/change-password.78b06f67ff5dfb6a8879.js.map"],"settings/email":["settings/email.ed51dd0d469cd05a95ca.js","settings/email.ed51dd0d469cd05a95ca.js.map"],"settings/memberships":["settings/memberships.61f459f4849c34f3c46a.js","settings/memberships.61f459f4849c34f3c46a.js.map"],"settings/packages":["settings/packages.dddbfb89bd1f7b383751.js","settings/packages.dddbfb89bd1f7b383751.js.map"],"settings/profile":["settings/profile.6d519ddcacdea976fdd5.js","settings/profile.6d519ddcacdea976fdd5.js.map"],"teams/create":["teams/create.e41bb7c3fe29b31b6fe2.js","teams/create.e41bb7c3fe29b31b6fe2.js.map"],"teams/detail":["teams/detail.aa21f1c0cff81d5a9737.js","teams/detail.aa21f1c0cff81d5a9737.js.map"],"teams/list":["teams/list.1d56429a8e3585a8f589.js","teams/list.1d56429a8e3585a8f589.js.map"],"teams/packages":["teams/packages.981aa0592e10d82567c5.js","teams/packages.981aa0592e10d82567c5.js.map"],"teams/users":["teams/users.3d3acaef1bfbaa0cee70.js","teams/users.3d3acaef1bfbaa0cee70.js.map"],"tfa/enable":["tfa/enable.4c2e2bc3ec4f1f9e4ef9.js","tfa/enable.4c2e2bc3ec4f1f9e4ef9.js.map"],"tfa/showTFAQRCode":["tfa/showTFAQRCode.050331203dfe9f0ebf60.js","tfa/showTFAQRCode.050331203dfe9f0ebf60.js.map"],"tfa/showTFASuccess":["tfa/showTFASuccess.d9ce251323915d5333d3.js","tfa/showTFASuccess.d9ce251323915d5333d3.js.map"],"tfa/tfa-mode-selection":["tfa/tfa-mode-selection.e84e19b0be79c26b2a06.js","tfa/tfa-mode-selection.e84e19b0be79c26b2a06.js.map"],"tfa/tfa-password-entry":["tfa/tfa-password-entry.ef2c4000b312d799ab94.js","tfa/tfa-password-entry.ef2c4000b312d799ab94.js.map"],"tokens/create":["tokens/create.1752db5cead6a7ea5273.js","tokens/create.1752db5cead6a7ea5273.js.map"],"tokens/list":["tokens/list.9c84d82b677ac313ec85.js","tokens/list.9c84d82b677ac313ec85.js.map"],"vouchers/view":["vouchers/view.cedbc4d21f18db2bf110.js","vouchers/view.cedbc4d21f18db2bf110.js.map"]},"hash":"429f3059e540b2c7cc49","name":"flatpage/flatpage","containerId":"app","headerName":"x-spiferack","publicPath":"https://static.npmjs.com/"}</script><script crossorigin="anonymous" src="https://static.npmjs.com/commons.429f3059e540b2c7cc49.js"></script>
+<script crossorigin="anonymous" src="https://static.npmjs.com/minicssextractbug.ca74408b353c740d5d0c.js"></script>
+<script crossorigin="anonymous" src="https://static.npmjs.com/flatpage/flatpage.5974d2428c425547961c.js"></script>
+  </body>
+</html>

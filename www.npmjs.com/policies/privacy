@@ -1,0 +1,639 @@
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://static.npmjs.com/styles.8ea0c2fab78a753ab019.css" />
+      <title data-react-helmet="true">npm | policies | privacy</title>
+      <meta data-react-helmet="true" http-equiv="cleartype" content="on"/><meta data-react-helmet="true" name="apple-mobile-web-app-capable" content="yes"/><meta data-react-helmet="true" name="viewport" content="width=device-width,minimum-scale=1.0,initial-scale=1,user-scalable=yes"/><meta data-react-helmet="true" property="og:image" content="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png"/><meta data-react-helmet="true" name="msapplication-TileColor" content="#cb3837"/><meta data-react-helmet="true" name="msapplication-TileImage" content="https://static.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png"/><meta data-react-helmet="true" name="msapplication-config" content="https://static.npmjs.com/668aac888e52ae13cac9cfd71fabd31f.xml"/><meta data-react-helmet="true" name="theme-color" content="#cb3837"/>
+      <link data-react-helmet="true" rel="apple-touch-icon" sizes="120x120" href="https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="144x144" href="https://static.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="152x152" href="https://static.npmjs.com/34110fd7686e2c90a487ca98e7336e99.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="180x180" href="https://static.npmjs.com/3dc95981de4241b35cd55fe126ab6b2c.png"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png" sizes="32x32"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png" sizes="230x230"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/f1786e9b7cba9753ca7b9c40e8b98f67.png" sizes="96x96"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/5f6e93af5bf0f5dcdd1eecdac99f51ee.png" sizes="192x192"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/c426a1116301d1fd178c51522484127a.png" sizes="228x228"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/da3ab40fb0861d15c83854c29f5f2962.png" sizes="16x16"/>
+      
+      <script data-react-helmet="true" type="text/javascript" id="hs-script-loader" onload async="true" defer="true" src="https://js.hs-scripts.com/5326678.js"></script>
+    
+  </head>
+  <body>
+    <div id="app"><div class="_452c3ec4 d68c66a8"><ul class="cf325dbd list ma0 pa0 tr z-999" aria-live="polite"></ul><div class="flex flex-column vh-100"><header class="_755f5b0f bg-white z-2 bb b--black-20"><div class="a6ff2de1"><a class="_1c6d86d1" href="https://github.blog/2020-04-15-npm-has-joined-github/"><svg class="_93bbf0b4" viewBox="0 0 780 250"><path fill="white" d="M240,250h100v-50h100V0H240V250z M340,50h50v100h-50V50z M480,0v200h100V50h50v150h50V50h50v150h50V0H480z M0,200h100V50h50v150h50V0H0V200z"></path></svg><span><strong>npm</strong> is now a part of <strong>GitHub</strong></span><svg class="_5532dff2" width="33px" height="33px" viewBox="0 0 33 33" version="1.1" role="img" xmlns="http://www.w3.org/2000/svg"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-136.000000, -331.000000)"><path fill="white" d="M152.608,331.455 C143.614,331.455 136.32,338.748 136.32,347.745 C136.32,354.942 140.987,361.047 147.46,363.201 C148.275,363.351 148.572,362.848 148.572,362.416 C148.572,362.029 148.558,361.005 148.55,359.646 C144.019,360.63 143.063,357.462 143.063,357.462 C142.322,355.58 141.254,355.079 141.254,355.079 C139.775,354.069 141.366,354.089 141.366,354.089 C143.001,354.204 143.861,355.768 143.861,355.768 C145.314,358.257 147.674,357.538 148.602,357.121 C148.75,356.069 149.171,355.351 149.636,354.944 C146.019,354.533 142.216,353.135 142.216,346.893 C142.216,345.115 142.851,343.66 143.893,342.522 C143.725,342.11 143.166,340.453 144.053,338.211 C144.053,338.211 145.42,337.773 148.532,339.881 C149.831,339.519 151.225,339.339 152.61,339.332 C153.994,339.339 155.387,339.519 156.688,339.881 C159.798,337.773 161.163,338.211 161.163,338.211 C162.052,340.453 161.493,342.11 161.326,342.522 C162.37,343.66 163,345.115 163,346.893 C163,353.151 159.191,354.528 155.563,354.931 C156.147,355.434 156.668,356.428 156.668,357.947 C156.668,360.125 156.648,361.882 156.648,362.416 C156.648,362.852 156.942,363.359 157.768,363.2 C164.236,361.041 168.899,354.94 168.899,347.745 C168.899,338.748 161.605,331.455 152.608,331.455"></path></g></g></svg></a></div><div></div><div class="e7070742 pv3-ns ph1-ns bg-white"><div class="ef7c6e62 center mw9 border-box ph4-ns ph3 flex"><span class="_0edb515f pr3 dn dib-ns link lh-title dim b--white-30">❤</span><span class="_99e3854f f6 fw4 link dn dib-ns tl dim mr4 nowrap">Naked Panda Meditations</span><nav class="_4a5f2a79 db w-100 w-auto-ns tr truncate"><ul class="list pl0"><li class="dib npme-hidden"><a class="c6c55db4 link f6-ns f7 fw5 pr2 pl2" id="nav-products-link" href="/products"><span class="dim">Products</span></a><ul class="_3f98ab29 mt2 pa0 bg-white br2 shadow-1 tl"><li><a id="nav-pro-link" class="b8f9b0bd link f6-ns f7 fw5 db ph3 pv2 nowrap dim" tabindex="0" href="/products/pro">Pro</a></li><li><a id="nav-teams-link" class="b8f9b0bd link f6-ns f7 fw5 db ph3 pv2 nowrap dim" tabindex="0" href="/products/teams">Teams</a></li><li><a id="nav-enterprise-link" class="b8f9b0bd link f6-ns f7 fw5 db ph3 pv2 nowrap dim" tabindex="0" href="/products/enterprise">Enterprise</a></li></ul></li><li class="dib npme-hidden"><a class="c6c55db4 link f6-ns f7 fw5 dim pr2 pl2" id="nav-pricing-link" href="/products">Pricing</a></li><li class="dib"><a class="c6c55db4 link f6-ns f7 fw5 dim pr2 pl2" id="nav-docs-link" href="https://docs.npmjs.com">Documentation</a></li><li class="dib npme-hidden"><a class="c6c55db4 link f6-ns f7 fw5 dim pr2 pl2" id="nav-resources-link" href="https://npm.community">Community</a></li></ul></nav></div></div><div class="_4ea0e50d bt b--black-10"><div class="c5b9953b center mw9 flex flex-wrap ph4-ns border-box"><h1 class="_657f443d">npm</h1><div class="af43375d mt3 db mr4-ns pb3 pb0-ns flex-auto 2-ns ph3 ph0-ns"><a href="/"><svg viewBox="0 0 780 250"><path fill="#231F20" d="M240,250h100v-50h100V0H240V250z M340,50h50v100h-50V50z M480,0v200h100V50h50v150h50V50h50v150h50V0H480z M0,200h100V50h50v150h50V0H0V200z"></path></svg></a></div><div class="_581ebd89 relative flex-auto w-100 w-50-ns pv2-ns order-1-ns order-2"><form id="search" method="GET" action="/search" class="_13c93d41 relative flex bg-transparent ph3 ph2 pv2 ph0-ns pv0-ns bt b--black-10 bn-ns"><div class="e82b10fd relative flex-grow-1"><div class="_2f299eeb nowrap flex"><span class="_705cdf4f db fl pl3 pr1"><svg width="15px" height="15px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" aria-hidden="true"><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Artboard-1" stroke="#777777" stroke-width="1.3"><g id="Group"><path d="M13.4044,7.0274 C13.4044,10.5494 10.5494,13.4044 7.0274,13.4044 C3.5054,13.4044 0.6504,10.5494 0.6504,7.0274 C0.6504,3.5054 3.5054,0.6504 7.0274,0.6504 C10.5494,0.6504 13.4044,3.5054 13.4044,7.0274 Z" id="Stroke-3"></path><path d="M11.4913,11.4913 L17.8683,17.8683" id="Stroke-7"></path></g></g></g></svg></span><input type="search" name="q" hotkeys="[object Object]" placeholder="Search packages" autoComplete="off" aria-label="Search packages" inputref="[object Object]" class="_390acbc5 f5 fw3 black relative" value="" element="input"/></div></div><button type="submit" class="_0da775bb bn pv2 ph4 f6 white pointer">Search</button><input type="hidden" name="csrftoken" value="ZgCIP409WJ7-gFYu0cgYsYZvXN4nNLjy3RXuat6-3GP"/></form></div><div class="_6f31c82b ml3 mt2 mt0-ns pv2-ns flex-auto tr nowrap relative pointer fw6 order-1 order-2-ns"><div class="_1066d9e7 flex items-center self-center pl3"><a href="/signup" class="_9752c8b3 pa2 lh-copy br2 f6 no-underline fw5 black dim ph3 mr3">Sign Up</a><a class="_352269a0 pa1 lh-copy br2 f6 no-underline fw5 black dim" href="/login">Sign In</a></div></div></div></div></header><main><div id="flatpage" class="flatpages">
+  
+
+
+
+<div class="apos-area"  data-apos-area data-doc-id="cjeu7ydme000c3774yivxgxwz">
+
+
+
+<div 
+  class="apos-area-widget-wrapper  "
+  data-apos-widget-wrapper="apostrophe-html"
+  >
+  
+  <div class="apos-area-widget   " data-apos-widget="apostrophe-html" data-apos-widget-id="ckb6mhf9b00009tcv3cettkgg" data='{}' data-options='{"edit":false}' ><div data-raw-html>
+  <div class="flatpages"><div class="policies"><div class="dt mw7 center pv2 pv2-m pv2-ns pa4 mb4">
+<h1 id="privacy-questions-and-answers">Privacy Questions and Answers</h1>
+<p>This notice describes how <a href="https://www.npmjs.com/about">npm, Inc.</a>, or <em>npm</em> for short, collects and uses data about you.</p>
+<p>Skip to:</p>
+<ul>
+<li><a href="#important">What&#39;s most important?</a></li>
+<li><a href="#collection">How does npm collect data about me?</a></li>
+<li><a href="#data">What data does npm collect about me, and why?</a></li>
+<li><a href="#sharing">Does npm share data about me with others?</a></li>
+<li><a href="#choice">How can I make choices about data collection?</a></li>
+<li><a href="#locality">Where does npm keep data about me?</a></li>
+<li><a href="#gdpr">How does npm handle data under the EU General Data Protection Regulation?</a></li>
+<li><a href="#ccpa">How does npm handle data under the California Consumer Privacy Act?</a></li>
+<li><a href="#access">How can I see what data is publicly available about me?</a></li>
+<li><a href="#change">How can I change data about me?</a></li>
+<li><a href="#forgotten">What is npm&#39;s policy on unpublishing packages?</a></li>
+<li><a href="#erasure-notice">How does npm notify others about published data that&#39;s erased?</a></li>
+<li><a href="#merge">What happens if npm merges with or is bought by another company?</a></li>
+<li><a href="#children">What are npm&#39;s information practices regarding information belonging to children?</a></li>
+<li><a href="#contact">Who can I contact about npm and my privacy?</a></li>
+<li><a href="#changes">How can I find out about changes?</a></li>
+</ul>
+<h2 id="-a-id-important-what-s-most-important-a-"><a id="important">What&#39;s most important?</a></h2>
+<p>That depends on your personal situation, which is why you should read on
+and decide for yourself. But at a minimum, absolutely every npm user
+should understand:</p>
+<p><em>The npm public registry is for making software available to everyone
+online.</em></p>
+<p>But: <em>Software comes from people, and says something about us.</em></p>
+<p>So: <em>Think carefully about what packages to publish, what data you put
+in those packages, and what others might do with that data.</em></p>
+<p>When you create an account, certain contact information is displayed
+publicly in the npm platform. And when you upload a package, your name
+and contact information may become associated with that package.</p>
+<p>If you find yourself in a jam, 
+<a href="mailto:privacy@npmjs.com">email privacy@npmjs.com</a>.</p>
+<h2 id="-a-id-collection-how-does-npm-collect-data-about-me-a-"><a id="collection">How does npm collect data about me?</a></h2>
+<p>npm collects data about you:</p>
+<ul>
+<li><p>when you use the <a href="https://www.npmjs.com/package/npm">npm command</a>, 
+the <a href="https://www.npmjs.com/package/npx">npx command</a> or another 
+program to access the <a href="https://registry.npmjs.org/">npm public registry</a>, 
+<a href="https://www.npmjs.com/enterprise">Enterprise registries that npm hosts</a>, 
+<a href="https://www.npmjs.com/features">private packages</a>, 
+such as when you&#39;re publishing a software package, and APIs for 
+functionality like account and permissions management</p>
+</li>
+<li><p>when you browse the npm website, <a href="https://www.npmjs.com/">npmjs.com</a></p>
+</li>
+<li><p>when you use either the npm command or the website to create an npm account, 
+update your account, and sign up for npm services</p>
+</li>
+<li><p>when you send support, privacy, legal, and other requests to npm</p>
+</li>
+<li><p>when working with and researching current and potential customers</p>
+</li>
+</ul>
+<p>When researching potential customers, npm staff sometimes search the
+public World Wide Web or paid business databases. Otherwise, npm
+doesn&#39;t buy or receive data about you from data brokers or other
+private services.</p>
+<p>npm may inadvertently collect data about you if it is included in
+software packages that you or others upload.</p>
+<h2 id="-a-id-data-what-data-does-npm-collect-about-me-and-why-a-"><a id="data">What data does npm collect about me, and why?</a></h2>
+<h3 id="-a-id-usage-data-npm-collects-data-about-how-you-use-npm-software-and-registries-a-"><a id="usage-data">npm collects data about how you use npm software and registries.</a></h3>
+<p>When you use the <code>npm</code> command, the <code>npx</code> command, or other software to work
+with the npm public registry, an Enterprise registry that npm hosts, or
+private packages, npm logs data that might be identified to you:</p>
+<ul>
+<li><p>a random, unique identifier, called <code>npm-session</code>, for each time you
+run commands like <code>npm install</code></p>
+</li>
+<li><p>the names and versions of your project&#39;s dependencies, their
+dependencies, and so on, that come from the npm public registry,
+<a href="https://docs.npmjs.com/cli/audit">but not of other dependencies, like Git
+dependencies</a></p>
+</li>
+<li><p>the versions of Node.js, the npm command, and the operating system
+you are using</p>
+</li>
+<li><p>an <code>npm-in-ci</code> header, showing whether the command was run on a
+continuous integration server</p>
+</li>
+<li><p>the scope of the package for which you ran <code>npm install</code>, as an
+<code>npm-scope</code> header</p>
+</li>
+<li><p>a <code>referrer</code> header that shows the command you ran, with any file or
+directory paths redacted</p>
+</li>
+<li><p>data about the software you&#39;re using to access the registry, such
+as the <code>User-Agent</code> string</p>
+</li>
+<li><p>network request data, such as the date and time, your IP address,
+and the URL</p>
+</li>
+</ul>
+<p>npm uses this data to:</p>
+<ul>
+<li><p>fulfill your requests, such as by sending the packages you ask for</p>
+</li>
+<li><p>send you alerts about security vulnerabilities that may affect the
+software you&#39;re building, when you run <code>npm install</code> or <code>npm audit</code></p>
+</li>
+<li><p>keep registries working quickly and reliably</p>
+</li>
+<li><p>debug and develop the <code>npm</code> command and other software</p>
+</li>
+<li><p>defend registries from abuse and technical attacks</p>
+</li>
+<li><p>compile statistics on package usage and popularity</p>
+</li>
+<li><p>prepare reports on trends in the developer community</p>
+</li>
+<li><p>improve search results on the website</p>
+</li>
+<li><p>recommend packages that may be relevant to your work</p>
+</li>
+</ul>
+<h3 id="-a-id-website-data-npm-collects-data-about-how-you-use-the-website-a-"><a id="website-data">npm collects data about how you use the website.</a></h3>
+<p>When you visit <a href="https://www.npmjs.com/">www.npmjs.com</a>,
+<a href="https://docs.npmjs.com/">docs.npmjs.com</a>, and other npm
+websites, npm uses cookies, server logs, and other methods to collect
+data about what pages you visit, and when. npm also collects technical
+information about the software and computer you use, such as:</p>
+<ul>
+<li><p>your IP address</p>
+</li>
+<li><p>your preferred language</p>
+</li>
+<li><p>the web browser software you use</p>
+</li>
+<li><p>the kind of computer you use</p>
+</li>
+<li><p>the website that referred you</p>
+</li>
+</ul>
+<p>npm uses data about how you use the website to:</p>
+<ul>
+<li><p>optimize the website, so that it&#39;s quick and easy to use</p>
+</li>
+<li><p>diagnose and debug technical errors</p>
+</li>
+<li><p>defend the website from abuse and technical attacks</p>
+</li>
+<li><p>compile statistics on package popularity</p>
+</li>
+<li><p>compile statistics on the kinds of software and computers visitors
+use</p>
+</li>
+<li><p>compile statistics on visitor searches and needs, to guide
+development of new website pages and functionality</p>
+</li>
+<li><p>decide who to contact about about product announcements, service
+changes, and new features</p>
+</li>
+</ul>
+<h3 id="-a-id-account-data-npm-collects-account-data-a-"><a id="account-data">npm collects account data.</a></h3>
+<p>Many features of npm services require an npm account. For example, you
+must have an npm account to publish packages to the npm public registry.</p>
+<p>To create an npm account, npm requires a working email address and an
+available user name. npm uses this data to provide you access to
+features and identify you across npm services, publicly and within npm.</p>
+<p>You do not have to give your personal or legal name to create an npm
+account. You can use a pseudonym instead. You can also open more than
+one account.</p>
+<p>If you sign up for an account, then npm will publish account data for
+the whole world to see on user pages <a href="https://www.npmjs.com/~kemitchell">like this one</a>. 
+npm also publishes account data through the npm public registry, 
+which is available for everyone to see, and Enterprise registries that npm hosts for others to
+find with commands like npm owner ls tap.</p>
+<p>If you give npm a personal name or names on social media like
+<a href="https://github.com/">GitHub</a> and
+<a href="https://twitter.com/">Twitter</a> through the website, like
+when you include this on your profile or user page, npm publishes that
+data along with the email address and user name for the account. You
+don&#39;t have to give npm a personal name or any social media names, and
+you can remove this data at any time by updating your user page.</p>
+<p>npm uses your email to:</p>
+<ul>
+<li><p>notify you about packages published using your account</p>
+</li>
+<li><p>reset your password and help keep your account secure</p>
+</li>
+<li><p>add metadata to packages that you publish</p>
+</li>
+<li><p>contact you in special circumstances related to your account or packages</p>
+</li>
+<li><p>contact you about support requests</p>
+</li>
+<li><p>contact you about legal requests, like DMCA takedown requests and privacy complaints</p>
+</li>
+<li><p>announce new npm product offerings, service changes, and features</p>
+</li>
+<li><p>send you tips about how to better use free and paid services</p>
+</li>
+<li><p>send you messages about paid services you might want</p>
+</li>
+</ul>
+<h3 id="-a-id-package-data-npm-collects-package-data-a-"><a id="package-data">npm collects package data.</a></h3>
+<p>When you use npm publish or other software to publish packages to the
+npm public registry, an Enterprise registry that npm hosts, or as a
+private package, npm collects the contents of the package, plus
+<a href="https://en.wikipedia.org/wiki/Metadata">metadata</a>,
+including your account data. Other npm users may also publish packages
+that include data about you, such as the fact that you contributed code
+to a package.</p>
+<p>npm uses data in packages to provide those packages to you and others
+who request them:</p>
+<ul>
+<li><p>When you publish a package to the npm public registry, or change a
+package from private to public, npm makes the package and metadata
+available to everyone, online.</p>
+</li>
+<li><p>When you publish a package to an Enterprise registry that npm hosts,
+or as a private package, npm makes all of that data available to
+other users according to how the registry or the private packages
+account is configured. You may be able to configure who can access
+the package, or that may be up to others, such as the
+administrator of your company&#39;s Enterprise registry.</p>
+</li>
+</ul>
+<p>Making package data available to others allows them to download, build
+on, and depend on your work.</p>
+<h3 id="-a-id-payment-data-npm-collects-payment-card-data-a-"><a id="payment-data">npm collects payment card data.</a></h3>
+<p>To sign up for paid services, npm requires your payment card data. npm
+itself does not collect or store enough information to charge your card
+itself. Rather, <a href="https://stripe.com/">Stripe</a> collects
+that data on npm&#39;s behalf, and gives npm security tokens that allow npm
+to create charges and subscriptions.</p>
+<p>npm uses your payment card data only to charge for npm services.</p>
+<p>npm instructs <a href="https://stripe.com/">Stripe</a> to store your
+payment card data only as long as you use paid npm services.</p>
+<h3 id="-a-id-potential-customers-npm-collects-data-about-current-and-potential-customers-a-"><a id="potential-customers">npm collects data about current and potential customers.</a></h3>
+<p>npm&#39;s sales and marketing teams collect information about npm users who
+might like to try npm paid services, as individuals or through
+organizations. npm also collects data about customer personnel, such as
+lists of people who need Enterprise registry accounts or access to
+channels for technical support. When npm&#39;s sales and marketing teams
+send email to current and potential customers, they collect data about
+whether those messages get read, and whether readers follow hyperlinks.</p>
+<p>npm&#39;s sales team also uses public World Wide Web searches and paid
+business databases to research who users work for, and their positions,
+based on account data like name or email address. The vast majority of
+this data is publicly available.</p>
+<p>npm uses data about current and potential customer personnel to:</p>
+<ul>
+<li><p>ensure npm meets its obligations to provide access, support, and
+other services under contracts for paid services</p>
+</li>
+<li><p>decide which people to contact about product announcements, service
+changes, and new features</p>
+</li>
+<li><p>ensure that people who opt out do not receive any more messages
+about npm services and upgrades</p>
+</li>
+<li><p>keep track of how users express interest in npm products and
+services over time</p>
+</li>
+<li><p>decide who should receive email about product announcements, service
+changes, and new features</p>
+</li>
+</ul>
+<h3 id="-a-id-contact-data-npm-collects-data-about-correspondence-a-"><a id="contact-data">npm collects data about correspondence.</a></h3>
+<p>npm collects data about you when you send npm support requests, legal
+complaints, privacy inquiries, and business inquiries. Those data
+usually include your name and email address, and may include your
+company or other affiliation.</p>
+<p>npm uses contact data to:</p>
+<ul>
+<li><p>respond to you</p>
+</li>
+<li><p>compile aggregate statistics about correspondence</p>
+</li>
+<li><p>train support staff and other npm personnel</p>
+</li>
+<li><p>review the performance of npm personnel who respond</p>
+</li>
+<li><p>defend npm from legal claims</p>
+</li>
+</ul>
+<h3 id="-a-id-forum-data-npm-collects-data-about-use-of-npm-community-a-"><a id="forum-data">npm collects data about use of npm.community.</a></h3>
+<p>npm collects data about visits, user accounts, and forum data on
+<a href="https://npm.community/">npm.community</a>, the discussion
+forum for users of npm products and services. npm uses data from
+npm.community to collaborate with the development community, and to
+inform development decisions about the command-line interface and other
+software.</p>
+<h2 id="-a-id-sharing-does-npm-share-data-about-me-with-others-a-"><a id="sharing">Does npm share data about me with others?</a></h2>
+<p>npm shares account data with others as <a href="#account-data">mentioned in the section about
+account data</a>.</p>
+<p>npm shares package data with others as <a href="privacy#package-data">mentioned in the section about
+package data</a>.</p>
+<p>npm publishes posts and other content you submit to <a href="https://npm.community/">npm.community</a>.</p>
+<p>npm does not sell information about you to others. However, npm uses
+services provided by other companies to provide npm services. The types
+of service providers that npm uses include:</p>
+<ul>
+<li><p>Companies that enable us to offer features on our website, such as to display your avatar</p>
+</li>
+<li><p>Companies that facilitate the efficient distribution of content</p>
+</li>
+<li><p>Cloud computing platforms and services that host our discussion forums</p>
+</li>
+<li><p>Services that assist with the detection of spam, scams, abuse
+others, or other violations of our <a href="https://www.npmjs.com/policies/terms">terms of service</a></p>
+</li>
+<li><p>Payment processors</p>
+</li>
+<li><p>Companies that assist us with marketing, such as to store data about
+current and potential customers or to enable us to send email to users, such as newsletters</p>
+</li>
+<li><p>Platforms to help us receive, manage, and respond to support requests</p>
+</li>
+<li><p>Platforms for internal communication</p>
+</li>
+</ul>
+<h3 id="-a-id-cookies-npm-uses-cookies-a-"><a id="cookies">npm uses cookies.</a></h3>
+<p>npm&#39;s website uses Google Analytics to collect and analyze data about
+visitors to its websites. You can read <a href="https://www.google.com/analytics/terms/">the privacy policy for Google
+Analytics online</a>.
+You can opt out of Google Analytics by installing a <a href="https://tools.google.com/dlpage/gaoptout">free browser
+extension</a>.</p>
+<p>npm uses
+<a href="https://www.hubspot.com/?__hstc=72727564.758886f1679f717bea7f57a689d3944d.1582727448385.1582727448385.1582727448385.1&amp;__hssc=72727564.1.1582727448386&amp;__hsfp=1312878196">HubSpot</a>
+to track which parts of npm websites you visit so we know which updates
+and service email messages to send you. We also use HubSpot to track
+when you create accounts and Orgs, when you change Orgs from free to
+paid, and when you add seats to Orgs, in order to share tips on how to
+use Orgs, to send you marketing messages about the benefits of paid
+services, and to notify our sales team that you might want paid
+services. Finally, HubSpot collects data from forms on our website that
+you must fill out to access some marketing content. You can read <a href="https://legal.hubspot.com/privacy-policy?__hstc=72727564.758886f1679f717bea7f57a689d3944d.1582727448385.1582727448385.1582727448385.1&amp;__hssc=72727564.1.1582727448386&amp;__hsfp=1312878196">the
+privacy policy for HubSpot
+online</a>.</p>
+<h2 id="-a-id-choice-how-can-i-make-choices-about-data-collection-a-"><a id="choice">How can I make choices about data collection?</a></h2>
+<p>You choose what data the npm publish command includes in package data.
+You can use an <a href="https://docs.npmjs.com/files/package.json#files">.npmignore</a>
+file in your package to keep specific files out of the package. You can
+also use a <a href="https://docs.npmjs.com/files/package.json#files">files list in package.json
+files</a> to
+instruct npm to include only specific files that you name, in addition
+to standard files like <code>README</code> files, <code>LICENSE</code> files, and package.json.</p>
+<p>To double check the data that you will share in a package that you plan
+to publish, run the <code>npm publish --dry-run</code> command. If you are running
+an older version of the npm command, run the npm pack command to create a
+<a href="https://en.wikipedia.org/wiki/Tar_(computing%29">tarball</a>,
+then check its contents, such as with <code>tar tvzf $tarball</code>.</p>
+<p>To publish a package to the npm public registry, npm&#39;s terms of service
+require you to <a href="https://www.npmjs.com/policies/open-source-terms#your-content">license npm to share it</a>.
+If a package is made public, it is available for everyone online to see.
+However, your <a href="https://docs.npmjs.com/files/package.json#license">choice of public license for your package</a>
+may affect what others can do with data about you in your package.</p>
+<p>npm does not respond to the <a href="https://en.wikipedia.org/wiki/Do_Not_Track">Do Not Track HTTP header</a>.</p>
+<h2 id="-a-id-choice-where-does-npm-keep-data-about-me-a-"><a id="choice">Where does npm keep data about me?</a></h2>
+<p>npm stores account data, data about website use, data about registry
+use, and private packages on servers in the United States of America.
+metadata about those packages worldwide, via content delivery
+networks.</p>
+<p>npm stores package data published to Enterprise registries that npm
+hosts, plus metadata about them, in cloud computing zones of customers&#39; choosing.</p>
+<p>By using the npm platform, you consent to the collection and storage of
+your data as outlined in this section.</p>
+<h2 id="-a-id-gdpr-how-does-npm-handle-data-under-the-eu-general-data-protection-regulation-a-"><a id="gdpr">How does npm handle data under the EU General Data Protection Regulation?</a></h2>
+<p>npm respects privacy rights under <a href="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG">Regulation (EU) 2016/679</a>,
+the European Union&#39;s General Data Protection Regulation (GDPR). npm
+processes &quot;Personal Data&quot; on the following legal bases: (1) with your
+consent; (2) as necessary to perform our agreement to provide our
+services; and (3) as necessary for our legitimate interests in providing
+our services where those interests do not override your fundamental
+rights and freedom related to data privacy. Information we collect may
+be transferred to, and stored and processed in, the United States or any
+other country in which we or our affiliates or subcontractors maintain
+facilities, as described above.</p>
+<p>If you reside in the EEA, Switzerland, or United Kingdom, you are
+entitled to certain rights, like the right to:</p>
+<ul>
+<li><p>complain about our data collection or processing actions with the
+supervisor authority concerned. You can find a list of data
+protection authorities <a href="http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm">here</a>.</p>
+</li>
+<li><p>access to information held about you.</p>
+</li>
+<li><p>ask us to correct or amend inaccurate or incomplete information we have about you.</p>
+</li>
+<li><p>ask us to erase data that under certain circumstances, like (1) when
+it is no longer necessary for the purpose for which it was
+collected, (2) you withdraw consent and no other legal basis for
+processing exists, or (3) you believe your fundamental rights to
+data privacy and protection outweigh our legitimate interest in
+continuing the processing.</p>
+</li>
+<li><p>request that we restrict our processing if we are processing your
+data based on legitimate interests or the performance of a task in
+the public interest as an exercise of official authority
+(including profiling); using your data for direct marketing
+(including profiling); or processing your data for purposes of
+scientific or historical research and statistics.</p>
+</li>
+</ul>
+<p>When you exercise your rights, npm may need to verify your identity and
+provide us with information before we access records containing your
+information. If you want to exercise your rights, please contact npm at
+<a href="mailto:privacy@npmjs.com">email privacy@npmjs.com</a>. We
+may have a reason under the law why we do not have to comply with your
+request or may comply with it in a more limited way than you
+anticipated. If we do, we will explain that to you in our response.</p>
+<h2 id="-a-id-ccpa-how-does-npm-handle-data-under-the-california-consumer-privacy-act-a-"><a id="ccpa">How does npm handle data under the California Consumer Privacy Act?</a></h2>
+<p>npm respects the rights of California residents under the <a href="https://www.oag.ca.gov/privacy/ccpa">California
+Consumer Privacy Act</a>
+(CCPA)]. Where we collect information that is subject to the
+CCPA, that information we collect and your rights are described below.</p>
+<p>Categories of personal information we collect:</p>
+<ul>
+<li><p><em>Personal Identifiers</em>:</p>
+<ul>
+<li><p>Name and email address when you create an account. You will also
+be asked to create a username and we will assign one or more
+unique identifiers to your profile. We use this information to
+provide our services, respond to your requests, and send
+information to you.</p>
+</li>
+<li><p>We also collect your social media handle and basic account
+information if you provide it to us or interact with our
+services, such as our help desk, through social media.</p>
+</li>
+<li><p>We collect your payment information through our service
+provider, Stripe, as described above.</p>
+</li>
+</ul>
+</li>
+<li><p><em>Internet or Other Electronic Network Activity Information</em>: device
+identifiers such as IP address and user agent; the assigned unique
+IDs in cookies (as described below); information about how you
+arrived at and navigated through our Services.</p>
+</li>
+<li><p><em>Geolocation Data:</em> We do not collect your specific longitude and
+latitude. However, we do collect imprecise location (e.g., your IP address).</p>
+</li>
+<li><p><em>Professional or employment-related information:</em> If you apply for
+employment with us, information about your employment history.</p>
+</li>
+<li><p><em>Education information:</em> If you apply for employment with us,
+information about your educational history.</p>
+</li>
+</ul>
+<p>We may collect any other information about you contained in software
+packages uploaded to our site, as described above under the &quot;npm
+collects package data&quot; section. We also collect the contents of your
+communications with us, e.g., when you submit a question to us through
+a web form or comments to us on social media.</p>
+<p>We may disclose any of the categories of personal information listed
+above and use them for the above-listed purposes or for other business
+or operational purposes compatible with the context in which the
+personal information was collected. Our disclosures of personal
+information include disclosures to our &quot;service providers,&quot; which are
+companies that we engage for business purposes to conduct activities
+on our behalf. The categories of service providers with whom we share
+information and the services they provide are described below.</p>
+<p>Rights under CCPA:</p>
+<ul>
+<li><p><em>Access/Right to Know</em>: You have the right to request access to
+personal information we collected about you and information
+regarding the source of that personal information, the purposes
+for which we collect it, and the third parties and service
+providers with whom we share it.</p>
+</li>
+<li><p><em>Deletion</em>: You have the right to request that we erase data we have
+collected from you. Please note that we may have a reason to deny
+your deletion request or delete data in a more limited way than
+you anticipated, e.g., because of a legal obligation to retain it.</p>
+</li>
+</ul>
+<p>To exercise your rights above, you can email us at
+<a href="mailto:privacy@npmjs.com">privacy@npmjs.com</a>. When we
+process your request, we must verify your identity by asking you to
+(1) provide personal identifiers that we can match against information
+we may have collected from you previously; and (2) confirm your
+request using the email stated in the request.</p>
+<p>Opt-out of sale:</p>
+<p>California residents have the right to request that we stop &quot;selling&quot;
+their personal information. A &quot;sale&quot; of personal information is
+defined broadly: &quot;selling, renting, releasing, disclosing,
+disseminating, making available, transferring, or otherwise
+communicating orally, in writing, or by electronic or other means, a
+consumer&#39;s personal information by the business to another business or
+a third party for monetary or other valuable consideration.&quot; We do not
+sell your information as defined by the CCPA.</p>
+<p>Please note that your right to opt out does not apply to our sharing
+of personal information with service providers, who are parties we
+engage to perform a function on our behalf and are contractually
+obligated to use the Personal Information only for that function.</p>
+<p>We may also disclose information to other entities who are not listed
+here when required by law or to protect our Company or other persons,
+as described in our Privacy Policy.</p>
+<h2 id="-a-id-access-how-can-i-see-what-data-is-publicly-available-about-me-a-"><a id="access">How can I see what data is publicly available about me?</a></h2>
+<p>You can access your account data at any time by visiting your account
+page on <a href="https://www.npmjs.com/">www.npmjs.com</a>. Your
+account page also lists all the packages published under your account or
+other accounts.</p>
+<p>You can access package data by downloading the packages, as long as
+they&#39;re public or you have permission to access them.</p>
+<p>You can see metadata about packages by running npm info $package, or by
+accessing the appropriate <a href="https://github.com/npm/registry/tree/master/docs">registry&#39;s
+API</a>.
+Registry APIs provide metadata in standard <a href="https://www.json.org/">JSON</a>
+format, and packages as
+<a href="https://en.wikipedia.org/wiki/Tar_(computing">tarballs</a>).</p>
+<h2 id="-a-id-change-how-can-i-change-data-about-me-a-"><a id="change">How can I change data about me?</a></h2>
+<p>You can change your personal account data and payment card data at any
+time by visiting your account settings page on
+<a href="https://www.npmjs.com/">www.npmjs.com</a>. You can change
+account and payment data for Enterprise by <a href="mailto:support@npmjs.com">emailing
+support@npmjs.com</a>.</p>
+<p>You can close your npm account at any time by e-mailing
+<a href="mailto:support@npmjs.com">support@npmjs.com</a>. Closing
+your account removes the profile from the public registry but does not
+automatically erase packages published under your account. We may retain
+some data about you internally even where you close your account.</p>
+<p>npm&#39;s <a href="https://www.npmjs.com/policies/unpublish">unpublish policy</a>
+determines when you can erase packages from the npm public registry. The
+unpublish policy strikes a difficult balance between the purpose of
+publishing and hosting packages, others&#39; reliance on what has been made
+public, and individual rights and freedoms.</p>
+<p>If another user improperly publishes personal data about you, in a
+package or otherwise, <a href="mailto:privacy@npmjs.com">email
+privacy@npmjs.com</a>.</p>
+<p>Please note that while <a href="#erasure-notice">npm publishes notices about published data
+that&#39;s been erased</a>,
+npm can&#39;t make everyone who has downloaded published package data or
+account data erase that data on your behalf. Choosing a public
+license, such as an open source software license,
+may encourage and allow storage, distribution, and use of package data
+indefinitely. Nearly all popular open source software licenses actually
+require preserving personal data that attributes the software to you,
+such as copyright notices, as a condition of permission for the
+software.</p>
+<h2 id="-a-id-forgotten-what-is-npm-s-policy-on-unpublishing-packages-a-"><a id="forgotten">What is npm&#39;s policy on unpublishing packages?</a></h2>
+<p>Please see <a href="https://www.npmjs.com/policies/unpublish">our policy on &quot;unpublishing&quot; packages</a> or
+<a href="https://www.npmjs.com/policies/open-source-terms">our terms of service</a> for more
+information on erasing packages].</p>
+<p>If you accidentally publish a package that threatens your privacy, or
+discover someone else has published a package that does, <a href="mailto:privacy@npmjs.com">email
+privacy@npmjs.com immediately</a>.
+npm can and will take down packages in specific, exceptional situations
+to protect you, especially if others violate your privacy. Using npm to
+violate others&#39; privacy is against our <a href="https://www.npmjs.com/policies/open-source-terms">terms of
+service</a>.</p>
+<h2 id="-a-id-erasure-notice-how-does-npm-notify-others-about-published-data-that-s-erased-a-"><a id="erasure-notice">How does npm notify others about published data that&#39;s erased?</a></h2>
+<p>npm takes a few steps to notify others who may be copying data from the
+npm public registry that published data has been erased:</p>
+<ul>
+<li><p>npm publishes new placeholder versions of some erased packages, with
+<code>README</code> files that mention the package has been erased, and why.</p>
+</li>
+<li><p>npm&#39;s <a href="https://github.com/npm/registry/tree/master/docs">registry APIs</a>,
+special software services that others use to copy data from the
+npm public registry, send update messages about packages that have
+been erased.</p>
+</li>
+</ul>
+<h2 id="-a-id-merge-what-happens-if-npm-merges-with-or-is-bought-by-another-company-a-"><a id="merge">What happens if npm merges with or is bought by another company?</a></h2>
+<p>We may transfer to another entity or its affiliates or service providers
+some or all information about you in connection with, or during
+negotiations of, any merger, acquisition, sale of assets or any line of
+business, change in ownership control, or financing transaction. We
+cannot promise that an acquiring party or the merged entity will have
+the same privacy practices or treat your information the same as
+described in this Policy.</p>
+<h2 id="-a-id-children-what-are-npm-s-information-practices-regarding-information-belonging-to-children-a-"><a id="children">What are npm&#39;s information practices regarding information belonging to children?</a></h2>
+<p>npm&#39;s site and services are intended for users age sixteen and older.
+npm does not knowingly collect information from children. If we discover
+that we have inadvertently collected information from anyone younger
+than the age of 16, we will delete that information.</p>
+<h2 id="-a-id-contact-who-can-i-contact-about-npm-and-my-privacy-a-"><a id="contact">Who can I contact about npm and my privacy?</a></h2>
+<p>You may email us directly at <a href="mailto:privacy@npmjs.com">privacy@npmjs.com</a>
+with the subject line &quot;Privacy Concerns.&quot;  You may also contact our Data
+Protection Officer directly.</p>
+<p>Our United States HQ:</p>
+<p>GitHub Data Protection Officer<br>Attention: npm Data Protection<br>88 Colin P. Kelly Jr. St.<br>San Francisco, CA 94107<br>United States</p>
+<p>or our EU Office:</p>
+<p>GitHub BV<br>Vijzelstraat 68-72<br>1017 HL Amsterdam<br>The Netherlands</p>
+<h2 id="-a-id-changes-how-can-i-find-out-about-changes-a-"><a id="changes">How can I find out about changes?</a></h2>
+<p>This version of npm&#39;s privacy questions and answers took effect June 3, 2020.</p>
+<p>npm will announce the next version on the <a href="https://blog.npmjs.org/">npm blog</a>. 
+In the meantime, npm may update <a href="#contact">its contact information</a>
+by updating the page at
+<a href="https://www.npmjs.com/policies/privacy">https://www.npmjs.com/policies/privacy</a>,
+without an announcement. npm may change how it announces changes in
+future privacy versions.</p>
+<p>You can review the history of changes in <a href="https://github.com/npm/policies/commits/master/privacy.md">the Git repository for npm&#39;s
+public policies</a>.</p>
+
+</div></div></div>
+</div>
+
+  </div>
+</div>
+</div>
+
+
+<script type="text/javascript">
+  
+  
+  
+</script>
+</div></main><footer class="cd2827bb bt b--black-10 mt4"><div class="center mw9 pa3 flex flex-column flex-wrap-m flex-row-ns"><div class="flex-auto pa4-ns pa3 w-100 w-10-l"><div class="_802b5507 pt3"><svg viewBox="0 0 27.23 27.23"><rect fill="#333333" width="27.23" height="27.23" rx="2"></rect><polygon fill="#fff" points="5.8 21.75 13.66 21.75 13.67 9.98 17.59 9.98 17.58 21.76 21.51 21.76 21.52 6.06 5.82 6.04 5.8 21.75"></polygon></svg></div></div><div class="flex-auto pa4-ns pa3 w-30-ns w-50-m"><h3 class="_1b8c0a9f">Help</h3><ul class="list pl0"><li class="pv1"><a class="link" href="https://docs.npmjs.com">Documentation</a></li><li class="pv1"><a class="link" href="https://npm.community">Community</a></li><li class="pv1"><a class="link" href="/resources/">Case Studies</a></li><li class="pv1"><a class="link" href="https://www.npmjs.com/advisories">Advisories</a></li><li class="pv1 npme-hidden"><a class="link" href="http://status.npmjs.org/">Status</a></li><li class="pv1"><a class="link" href="/support">Contact</a></li></ul></div><div class="flex-auto pa4-ns pa3 w-30-ns w-50-m"><h3 class="_1b8c0a9f">About</h3><ul class="list pl0"><li class="pv1"><a class="link" href="/about">Company</a></li><li class="pv1"><a class="link" href="https://blog.npmjs.org/">Blog</a></li><li class="pv1 npme-hidden"><a class="link" href="/jobs">Careers</a></li><li class="pv1"><a class="link" href="https://www.youtube.com/playlist?list=PLQso55XhxkgDSLC0GzjGFeUkJ_T6YzVXK" target="_blank" rel="noopener noreferrer nofollow">Webinars</a></li><li class="pv1"><a class="link" href="/press">Press</a></li><li class="pv1"><a class="link" href="/npm-weekly">Newsletter</a></li></ul></div><div class="flex-auto pa4-ns pa3 w-30-ns w-50-m"><h3 class="_1b8c0a9f">Terms &amp; Policies</h3><ul class="list pl0"><li class="pv1"><a class="link" href="/policies/">Policies</a></li><li class="pv1"><a class="link" href="/policies/terms">Terms of Use</a></li><li class="pv1 npme-hidden"><a class="link" href="/policies/conduct">Code of Conduct</a></li><li class="pv1 npme-hidden"><a class="link" href="/policies/privacy">Privacy</a></li></ul></div></div></footer></div><div class="_8a62ca63 fixed top-0 left-0 z-999" style="opacity:0;transform:scaleX(1);-webkit-transform:scaleX(1);-moz-transform:scaleX(1)"></div></div></div><script integrity="sha512-vog27A1WpvdF1zGdpna3/WkqsmEu057rZ5Vd8lzbHYN43icILZFxCT7RFcppfbnDVUb56Q6jAUu669qNcGD8gw==">window.__context__ = {"context":{"isNpme":false,"npmExpansions":["Nobel Prize Magnet","NASA Proceeds to Mars","No Problem Mate","Next Planet of Monkeys","Never Poke Monkeys","Nanoscale Parts Manufacturing","Nice Package, Mate","Naysayers Promote Misery","Nice Paintings, Mondrian","Naked Panda Meditations"],"notifications":[],"csrftoken":"ZgCIP409WJ7-gFYu0cgYsYZvXN4nNLjy3RXuat6-3GP","user":null,"documentContext":{"flatpage.data":"flatpage"},"flatpage":{"title":"npm | policies | privacy","ref":"flatpage","data":null},"undefined":true},"chunks":{"commons":["commons.429f3059e540b2c7cc49.js","commons.429f3059e540b2c7cc49.js.map"],"styles":["styles.8ea0c2fab78a753ab019.css","minicssextractbug.ca74408b353c740d5d0c.js","styles.8ea0c2fab78a753ab019.css.map","minicssextractbug.ca74408b353c740d5d0c.js.map"],"advisories/detail":["advisories/detail.0132958db6d18c0e6e01.js","advisories/detail.0132958db6d18c0e6e01.js.map"],"advisories/list":["advisories/list.3290ddc4e23207bdb4b4.js","advisories/list.3290ddc4e23207bdb4b4.js.map"],"advisories/report":["advisories/report.b064331d619988111965.js","advisories/report.b064331d619988111965.js.map"],"advisories/versions":["advisories/versions.d67b64d44aaa6fc39045.js","advisories/versions.d67b64d44aaa6fc39045.js.map"],"auth/cli":["auth/cli.1d16c91afb0c4e0635f2.js","auth/cli.1d16c91afb0c4e0635f2.js.map"],"auth/common-passwords":["auth/common-passwords.436ae493e0cbdc0c6db1.js","auth/common-passwords.436ae493e0cbdc0c6db1.js.map"],"auth/escalate":["auth/escalate.77815e32a3160e2cc4f8.js","auth/escalate.77815e32a3160e2cc4f8.js.map"],"auth/forgot":["auth/forgot.ca1f1907a0dafb38be4e.js","auth/forgot.ca1f1907a0dafb38be4e.js.map"],"auth/forgot-sent":["auth/forgot-sent.ad98b7e97894a93df025.js","auth/forgot-sent.ad98b7e97894a93df025.js.map"],"auth/forgot-sent-anonymized":["auth/forgot-sent-anonymized.4497c80cd62374748250.js","auth/forgot-sent-anonymized.4497c80cd62374748250.js.map"],"auth/invite-signup":["auth/invite-signup.ac5f299fece9e43e617b.js","auth/invite-signup.ac5f299fece9e43e617b.js.map"],"auth/login":["auth/login.7c1f7c0107ad04fd59ed.js","auth/login.7c1f7c0107ad04fd59ed.js.map"],"auth/otp":["auth/otp.48bbad1a86ecd76e44cc.js","auth/otp.48bbad1a86ecd76e44cc.js.map"],"auth/reset-password":["auth/reset-password.fc1738c87ab5c3ef247d.js","auth/reset-password.fc1738c87ab5c3ef247d.js.map"],"auth/signup":["auth/signup.b40074058b4e707ea227.js","auth/signup.b40074058b4e707ea227.js.map"],"auth/sso-signup":["auth/sso-signup.0b7610c6ef4dda2ec44c.js","auth/sso-signup.0b7610c6ef4dda2ec44c.js.map"],"billing/detail":["billing/detail.f8e9ee9a27affb78dfc3.js","billing/detail.f8e9ee9a27affb78dfc3.js.map"],"billing/downgrade":["billing/downgrade.53230b3ff30717d1a4b7.js","billing/downgrade.53230b3ff30717d1a4b7.js.map"],"billing/upgrade":["billing/upgrade.6b87dc282722783c2cdf.js","billing/upgrade.6b87dc282722783c2cdf.js.map"],"contact/contact":["contact/contact.af3dd468f54370ffc937.js","contact/contact.af3dd468f54370ffc937.js.map"],"debug/badstatus":["debug/badstatus.b25763c32e9962e75983.js","debug/badstatus.b25763c32e9962e75983.js.map"],"debug/detail":["debug/detail.fa739fbd6bffd23fdec4.js","debug/detail.fa739fbd6bffd23fdec4.js.map"],"debug/failcomponent":["debug/failcomponent.64ec10ea7c542e7d5643.js","debug/failcomponent.64ec10ea7c542e7d5643.js.map"],"egg/egg":["egg/egg.79edc258ae578ab94361.js","egg/egg.79edc258ae578ab94361.js.map"],"enterprise/complete":["enterprise/complete.7d2a0a50838c3cf4c282.js","enterprise/complete.7d2a0a50838c3cf4c282.js.map"],"enterprise/license-paid":["enterprise/license-paid.263c8eefe4a649aa3178.js","enterprise/license-paid.263c8eefe4a649aa3178.js.map"],"enterprise/license-purchase":["enterprise/license-purchase.b680ce084f4e43676354.js","enterprise/license-purchase.b680ce084f4e43676354.js.map"],"enterprise/on-site-buy-now":["enterprise/on-site-buy-now.2dcfd4982a9280c07332.js","enterprise/on-site-buy-now.2dcfd4982a9280c07332.js.map"],"enterprise/on-site-contact-confirmation":["enterprise/on-site-contact-confirmation.1acc1b1075cb9137ec4a.js","enterprise/on-site-contact-confirmation.1acc1b1075cb9137ec4a.js.map"],"enterprise/on-site-trial":["enterprise/on-site-trial.bb39b9fe336832948cad.js","enterprise/on-site-trial.bb39b9fe336832948cad.js.map"],"enterprise/orgs-terms":["enterprise/orgs-terms.ec9d8eb743ba7ee1d6f2.js","enterprise/orgs-terms.ec9d8eb743ba7ee1d6f2.js.map"],"enterprise/signup-confirmation":["enterprise/signup-confirmation.e9a47426323eb52f1bf3.js","enterprise/signup-confirmation.e9a47426323eb52f1bf3.js.map"],"errors/not-found":["errors/not-found.97bd5716ece086aaad31.js","errors/not-found.97bd5716ece086aaad31.js.map"],"errors/server":["errors/server.fbdccd9b2cccc09eac2a.js","errors/server.fbdccd9b2cccc09eac2a.js.map"],"errors/template":["errors/template.8ffbdf0311437fe50302.js","errors/template.8ffbdf0311437fe50302.js.map"],"flatpage/flatpage":["flatpage/flatpage.5974d2428c425547961c.js","flatpage/flatpage.5974d2428c425547961c.js.map"],"homepage/homepage":["homepage/homepage.7d324375879de472ca8b.js","homepage/homepage.7d324375879de472ca8b.js.map"],"homepage/homepage-logged-in":["homepage/homepage-logged-in.3f80425d936ee6f3087e.js","homepage/homepage-logged-in.3f80425d936ee6f3087e.js.map"],"npme/invite":["npme/invite.e7776f7993d32a9dcab6.js","npme/invite.e7776f7993d32a9dcab6.js.map"],"npme/invites":["npme/invites.189a31a0dedc3e8e0147.js","npme/invites.189a31a0dedc3e8e0147.js.map"],"npme/login":["npme/login.6da65eb556a96fab728a.js","npme/login.6da65eb556a96fab728a.js.map"],"npme/overrides/components/tutorials/creating-org":["npme/overrides/components/tutorials/creating-org.5ba2f5f246e7e935d5b1.js","npme/overrides/components/tutorials/creating-org.5ba2f5f246e7e935d5b1.js.map"],"npme/overrides/components/tutorials/default-registry":["npme/overrides/components/tutorials/default-registry.7a6a34d4866fa0f2a920.js","npme/overrides/components/tutorials/default-registry.7a6a34d4866fa0f2a920.js.map"],"npme/overrides/components/tutorials/installing-package":["npme/overrides/components/tutorials/installing-package.d8774ff2ee7dca298875.js","npme/overrides/components/tutorials/installing-package.d8774ff2ee7dca298875.js.map"],"npme/overrides/components/tutorials/publishing-package":["npme/overrides/components/tutorials/publishing-package.d0ea8e384d063b47f66d.js","npme/overrides/components/tutorials/publishing-package.d0ea8e384d063b47f66d.js.map"],"npme/overrides/components/tutorials/tabs":["npme/overrides/components/tutorials/tabs.7673682b6d66d0b1de5a.js","npme/overrides/components/tutorials/tabs.7673682b6d66d0b1de5a.js.map"],"npme/overrides/homepage":["npme/overrides/homepage.8ff91fccaa8e023bb039.js","npme/overrides/homepage.8ff91fccaa8e023bb039.js.map"],"npme/overrides/orgs/create":["npme/overrides/orgs/create.d9ead4893c30a8601ad0.js","npme/overrides/orgs/create.d9ead4893c30a8601ad0.js.map"],"npme/settings":["npme/settings.06a67d4f7c8a71721d95.js","npme/settings.06a67d4f7c8a71721d95.js.map"],"npme/setup":["npme/setup.c12d71f6b9ecbff6f38c.js","npme/setup.c12d71f6b9ecbff6f38c.js.map"],"npme/sso-config":["npme/sso-config.e84454b27e4a552c01af.js","npme/sso-config.e84454b27e4a552c01af.js.map"],"npme/users":["npme/users.42d3195bd5c2a6022750.js","npme/users.42d3195bd5c2a6022750.js.map"],"orgs/create":["orgs/create.171bca2ded58b4e14c5e.js","orgs/create.171bca2ded58b4e14c5e.js.map"],"orgs/detail":["orgs/detail.8fa815fcb0c41c9987f1.js","orgs/detail.8fa815fcb0c41c9987f1.js.map"],"orgs/invite":["orgs/invite.28f8cd75195b676071fb.js","orgs/invite.28f8cd75195b676071fb.js.map"],"orgs/upgrade":["orgs/upgrade.5235274d83feb44fbb07.js","orgs/upgrade.5235274d83feb44fbb07.js.map"],"package-list/dependents-list":["package-list/dependents-list.e9a601eeb2b555f452c3.js","package-list/dependents-list.e9a601eeb2b555f452c3.js.map"],"package-list/most-depended":["package-list/most-depended.6e1ab19ed1908586a5c9.js","package-list/most-depended.6e1ab19ed1908586a5c9.js.map"],"package-list/recently-updated":["package-list/recently-updated.69c946c7f737f0f0dc65.js","package-list/recently-updated.69c946c7f737f0f0dc65.js.map"],"package/package":["package/package.be8e9b4834418a2b9c38.js","package/package.be8e9b4834418a2b9c38.js.map"],"profile/profile":["profile/profile.b2109d4d3217b9406608.js","profile/profile.b2109d4d3217b9406608.js.map"],"search/search":["search/search.e995fcdd89068743db8c.js","search/search.e995fcdd89068743db8c.js.map"],"settings/change-password":["settings/change-password.78b06f67ff5dfb6a8879.js","settings/change-password.78b06f67ff5dfb6a8879.js.map"],"settings/email":["settings/email.ed51dd0d469cd05a95ca.js","settings/email.ed51dd0d469cd05a95ca.js.map"],"settings/memberships":["settings/memberships.61f459f4849c34f3c46a.js","settings/memberships.61f459f4849c34f3c46a.js.map"],"settings/packages":["settings/packages.dddbfb89bd1f7b383751.js","settings/packages.dddbfb89bd1f7b383751.js.map"],"settings/profile":["settings/profile.6d519ddcacdea976fdd5.js","settings/profile.6d519ddcacdea976fdd5.js.map"],"teams/create":["teams/create.e41bb7c3fe29b31b6fe2.js","teams/create.e41bb7c3fe29b31b6fe2.js.map"],"teams/detail":["teams/detail.aa21f1c0cff81d5a9737.js","teams/detail.aa21f1c0cff81d5a9737.js.map"],"teams/list":["teams/list.1d56429a8e3585a8f589.js","teams/list.1d56429a8e3585a8f589.js.map"],"teams/packages":["teams/packages.981aa0592e10d82567c5.js","teams/packages.981aa0592e10d82567c5.js.map"],"teams/users":["teams/users.3d3acaef1bfbaa0cee70.js","teams/users.3d3acaef1bfbaa0cee70.js.map"],"tfa/enable":["tfa/enable.4c2e2bc3ec4f1f9e4ef9.js","tfa/enable.4c2e2bc3ec4f1f9e4ef9.js.map"],"tfa/showTFAQRCode":["tfa/showTFAQRCode.050331203dfe9f0ebf60.js","tfa/showTFAQRCode.050331203dfe9f0ebf60.js.map"],"tfa/showTFASuccess":["tfa/showTFASuccess.d9ce251323915d5333d3.js","tfa/showTFASuccess.d9ce251323915d5333d3.js.map"],"tfa/tfa-mode-selection":["tfa/tfa-mode-selection.e84e19b0be79c26b2a06.js","tfa/tfa-mode-selection.e84e19b0be79c26b2a06.js.map"],"tfa/tfa-password-entry":["tfa/tfa-password-entry.ef2c4000b312d799ab94.js","tfa/tfa-password-entry.ef2c4000b312d799ab94.js.map"],"tokens/create":["tokens/create.1752db5cead6a7ea5273.js","tokens/create.1752db5cead6a7ea5273.js.map"],"tokens/list":["tokens/list.9c84d82b677ac313ec85.js","tokens/list.9c84d82b677ac313ec85.js.map"],"vouchers/view":["vouchers/view.cedbc4d21f18db2bf110.js","vouchers/view.cedbc4d21f18db2bf110.js.map"]},"hash":"429f3059e540b2c7cc49","name":"flatpage/flatpage","containerId":"app","headerName":"x-spiferack","publicPath":"https://static.npmjs.com/"}</script><script crossorigin="anonymous" src="https://static.npmjs.com/commons.429f3059e540b2c7cc49.js"></script>
+<script crossorigin="anonymous" src="https://static.npmjs.com/minicssextractbug.ca74408b353c740d5d0c.js"></script>
+<script crossorigin="anonymous" src="https://static.npmjs.com/flatpage/flatpage.5974d2428c425547961c.js"></script>
+  </body>
+</html>
