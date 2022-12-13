@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "crawler": "^1.2.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-fs": "^0.1.7",
     "path": "^0.12.7",
     "simplecrawler": "^1.1.9",
